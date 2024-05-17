@@ -1,3 +1,3 @@
 # lista_tarefas
-Projecto de Avaliação
+Projecto de Avaliação para estágio 
 
